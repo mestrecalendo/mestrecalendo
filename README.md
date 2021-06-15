@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mestrecalendo/mestrecalendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<h3 >Hi there, me and my personalities are working to create a fun Readme 👋
+</h3><br>
 <img src='img/dwight.gif' alt='working...'/>
+</div>
