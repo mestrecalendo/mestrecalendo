@@ -1,0 +1,12 @@
+{
+  "name": "mestrecalendo",
+  "version": "1.0.0",
+  "description": "fun readme, i guess",
+  "main": "index.js",
+  "repository": "https://github.com/mestrecalendo/mestrecalendo.git",
+  "author": "mestrecalendo <57951365+mestrecalendo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
