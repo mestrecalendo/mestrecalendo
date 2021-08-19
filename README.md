@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h3 >My name is Sofia and today is Wednesday, 18 August, 23:56 GMT-4</h3><br>
+<h3 >My name is Sofia and today is Thursday, 19 August, 00:15 GMT-4</h3><br>
 <h3 >For now, me and my personalities are working to create a fun Readme 👋
 </h3><br>
 <img src='img/dwight.gif' alt='working...'/>
