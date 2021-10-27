@@ -6,5 +6,5 @@
 <h3 >For now, me and my personalities are working to create a fun Readme 👋
 </h3><br>
 <img src='img/dwight.gif' alt='working...'/>
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=twitter)](https://github.com/gazf/github-readme-twitter)
 </div>
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=twitter)](https://github.com/gazf/github-readme-twitter)
