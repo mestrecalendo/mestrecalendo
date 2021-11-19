@@ -3,7 +3,7 @@
 
 <img src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg==" alt="i like cats" width="150" display="inline" />
 
-<h3 >My name is Sofia and today is Friday, 19 November, 01:23 GMT-4</h3>
+<h3 >My name is Sofia and today is Friday, 19 November, 01:31 GMT-4</h3>
 <h5 >I'm trying to be a front-end developer, but I know some back-end stuff</h5><br>
 
 </div>
