@@ -3,7 +3,7 @@
 
 <img src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg==" alt="i like cats" width="150" display="inline" />
 
-<h3 >My name is Sofia and today is Friday, 4 February, 14:59 GMT-4</h3>
+<h3 >My name is Sofia and today is Friday, 4 February, 15:11 GMT-4</h3>
 <h5 >I'm trying to be a front-end developer, but I know some back-end stuff</h5><br>
 
 </div>
@@ -37,7 +37,7 @@ Here some informations about me   |  And here some unimportant things
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60" />
 </a>
 
-<a href="https://codepen.io/mestrecalendo/pens/" >
+<a href="https://codepen.io/mestrecalendo/pens/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" align="center" heigth="50" width="60" />
 </a>
 
