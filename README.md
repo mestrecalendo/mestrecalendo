@@ -33,11 +33,11 @@ Here some informations about me   |  And here some unimportant things
 
 ## Find me
 
-<a href="https://www.linkedin.com/in/sofiasousa1/" padding="1rem">
+<a href="https://www.linkedin.com/in/sofiasousa1/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60" />
 </a>
 
-<a href="https://codepen.io/mestrecalendo/pens/"  padding="1rem">
+<a href="https://codepen.io/mestrecalendo/pens/" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" align="center" heigth="50" width="60" />
 </a>
 
