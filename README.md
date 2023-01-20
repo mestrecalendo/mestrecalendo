@@ -5,6 +5,7 @@
 
 <h3 >My name is Sofia</h3>
 <h5 >I'm trying to be a front-end developer, but I know some back-end stuff</h5><br>
+<h5 >in my free time i like to take up freelance projects ♡ </h5><br>  
 
 </div>
 
