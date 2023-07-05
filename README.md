@@ -28,9 +28,9 @@
 
 <div align="center">
 
-Here some informations about me   |  And here some unimportant things
+Here some informations about my repo   |  And here some unimportant things
 :-------------------------:|:-------------------------:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mestrecalendo&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JokesMemesFacts&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mestrecalendo&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=@JokesMemesFacts&layout=wide)](https://github.com/gazf/github-readme-twitter)
 </div>
 
 
