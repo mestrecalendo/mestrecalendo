@@ -4,8 +4,9 @@
 <img src="https://images-cdn.newscred.com/Zz0zYTVmMjFjNDQ0OGIxMWViYmExMTE1NWU0ZjkwYzAwMg==" alt="i like cats" width="150" display="inline" />
 
 <h3 >My name is Sofia</h3>
-<h5 >I'm a front-end developer, but I know some back-end stuff</h5>
-<h5 >in my free time i like to take up freelance projects ♡ </h5><br>  
+<h5 >Hey, my name is Sofia, but you can call me Calendo.</h5>
+<h5 >At the moment I'm a frontend dev, but I'm studying(C# and .NET) to migrate to backend</h5>
+<h5 >In my free time i like to take up freelance projects ♡ </h5><br>  
 
 </div>
 
