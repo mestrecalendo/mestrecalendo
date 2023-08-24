@@ -26,12 +26,6 @@
 </div>
 <br>
 
-<div align="center">
-
-Here some informations about my repo 
-:-------------------------:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mestrecalendo&hide=python&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
 
 
 ## Find me
